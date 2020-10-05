@@ -17,6 +17,7 @@ const ahmedYar = {
         },
         devOps: ["AWS", "Google Cloud", "Azure" "Docker🐳", "Kubernetes"],
         databases: ["mongo", "MySql", "sqlite" "Postgres"],
+        versionControl: ["GitHub","GitLab","BitBucket"]
         misc: ["Firebase", "Netlify" "Socket.IO", "selenium", "requests", "pandas" "open-cv", "bs4", "nightmare", "puppeteer", "etc"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
