@@ -1,15 +1,10 @@
 ### Hi there 👋
+This is Ahmed Yar Tanveer, Full Stack Developer with 3 years of experience in web and software developement 
 
-<!--
-**ahmedyartanveer/ahmedyartanveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-This is Ahmed Yar Tanveer, an Intelligent and quick software developer with deep knowledge of programming concepts
-
-
-`
+```
 const ahmedYar = {
     pronouns: "He" | "Him",
-    code: ["Html", "Javascript", "Typescript", "Python", "C#"],
+    code: ["Html", "Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "cryptocurrency"],
     technologies: {
         mobileApp: ["Android/IOS App", "React Native"],
@@ -18,8 +13,7 @@ const ahmedYar = {
             css: ["material-UI", "semantic-UI", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
-            python: ["flask", "django"]
+            js: ["node", "express"]
         },
         devOps: ["AWS", "Google Cloud", "Azure" "Docker🐳", "Kubernetes"],
         databases: ["mongo", "MySql", "sqlite" "Postgres"],
@@ -28,8 +22,8 @@ const ahmedYar = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am working on an Amazon clone",
     funFact: "There are two ways to write error-free programs; only the third one works"
-    getInTouch: "[LinkedIn](https://www.linkedin.com/in/ahmed-yar-tanveer-371486169/) [Email](ahmedyarabbassi@gmail.com)"
 };
-`
- I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
+```
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-yar-tanveer-371486169/), [Email](ahmedyarabbassi@gmail.com), [Twitter](https://www.twitter.com/ahmedyar123).    
+I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
 
