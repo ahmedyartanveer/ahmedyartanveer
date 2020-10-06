@@ -15,7 +15,7 @@ const ahmedYar = {
         backEnd: {
             js: ["node", "express"]
         },
-        devOps: ["AWS", "Google Cloud", "Azure" "Docker🐳", "Kubernetes"],
+        devOps: ["AWS", "Google Cloud", "Azure" "Docker", "Kubernetes"],
         databases: ["mongo", "MySql", "sqlite" "Postgres"],
         versionControl: ["GitHub","GitLab","BitBucket"]
         misc: ["Firebase", "Netlify" "Socket.IO", "selenium", "requests", "pandas" "open-cv", "bs4", "nightmare", "puppeteer", "etc"]
@@ -26,5 +26,4 @@ const ahmedYar = {
 };
 ```
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-yar-tanveer-371486169/), [Email](ahmedyarabbassi@gmail.com), [Twitter](https://www.twitter.com/ahmedyar123).    
-I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
-
+   I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
