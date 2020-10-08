@@ -21,6 +21,7 @@ const ahmedYar = {
         misc: ["Firebase", "Netlify" "Socket.IO", "selenium", "requests", "pandas" "open-cv", "bs4", "nightmare", "puppeteer", "etc"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    expertise: ["Scraping", "Automation", "Scripting", "Web development", "Software development"],
     currentProject: "I am working on an Amazon clone",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
