@@ -19,7 +19,7 @@ const ahmedYar = {
         databases: ["mongo", "MySql", "sqlite" "Postgres"],
         versionControl: ["GitHub","GitLab","BitBucket"]
         misc: ["Firebase", "Netlify" "Socket.IO", "selenium", "requests", "pandas" "open-cv", "bs4", 
-               "nightmare", "puppeteer", "Contentful", "Favicon", "etc"]
+               "nightmare", "puppeteer", "Contentful", "Favicon", "WebRTC", "etc"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     expertise: ["Scraping", "Automation", "Scripting", "Web development", "Software development"],
