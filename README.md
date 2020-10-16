@@ -32,11 +32,11 @@ const ahmedYar = {
    
 🚀 Some of my main projects:
 
-• [ScrapePilot](scrapepilot.com) - It is basically an email scraping software that scrapes emails from any webpage/website/URL/Directory you provide to it. It has reviews/linkedIn scraping features as well
+• [ScrapePilot](https://scrapepilot.com) - It is basically an email scraping software that scrapes emails from any webpage/website/URL/Directory you provide to it. It has reviews/linkedIn scraping features as well
 
 • [Office addins for Flow Fact](https://www.flowfact.de) - a CRM software. I worked on their addins UI using [reactJs](react.com). It is built using aws lambda, react, typescript, nodejs, aws cognito and exchange server.
 
 • [Office addin for patentbots](https://www.patentbots.com) - provides essential tools for patent prosecution. I contributed to it. It is built using vanilla javascript, django, GCP, aws.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-yar-tanveer-371486169/), [Email](ahmedyarabbassi@gmail.com), [Twitter](https://www.twitter.com/ahmedyar123).    
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-yar-tanveer-371486169/), [Email](ahmedyarabbassi@gmail.com), [Twitter](https://www.twitter.com/ahmedyar123).   
    I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
