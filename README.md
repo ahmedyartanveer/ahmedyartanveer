@@ -28,7 +28,11 @@ const ahmedYar = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-🔭 I’m currently working on [ScrapePilot.com](https://scrapepilot.com) adding more features to it
+🔭 I’m currently working on 
+
+•  [ScrapePilot.com](https://scrapepilot.com) adding more features to it
+
+•  [Zillow Parsing](https://www.zillow.com) scraping data from zillow and storing it into DB 
    
 🚀 Some of my main projects:
 
