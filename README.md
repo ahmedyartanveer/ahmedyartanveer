@@ -16,10 +16,10 @@ const ahmedYar = {
             js: ["node", "express"]
         },
         devOps: ["AWS", "Google Cloud", "Azure" "Docker", "Kubernetes"],
-        databases: ["mongo", "MySql", "sqlite" "Postgres"],
+        databases: ["mongo", "MySql", "sqlite" "Postgresql"],
         versionControl: ["GitHub","GitLab","BitBucket"]
         misc: ["Firebase", "Netlify" "Socket.IO", "selenium", "requests", "pandas" "open-cv", "bs4", 
-               "nightmare", "puppeteer", "Contentful", "Favicon", "WebRTC", "cheerio", "etc"]
+               "nightmare", "puppeteer", "Contentful", "Favicon", "WebRTC", "cheerio", "Postman" "etc"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     expertise: ["Scraping", "Automation", "Scripting", "Web development", "Software development"],
