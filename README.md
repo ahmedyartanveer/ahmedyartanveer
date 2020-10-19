@@ -43,4 +43,4 @@ const ahmedYar = {
 • [Office addin for patentbots](https://www.patentbots.com) - provides essential tools for patent prosecution. I contributed to it. It is built using vanilla javascript, django, GCP, aws.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-yar-tanveer-371486169/), [Email](ahmedyarabbassi@gmail.com), [Twitter](https://www.twitter.com/ahmedyar123).   
-   I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
+   I love connecting with different people so if you want to say hi, I’ll be happy to meet you! 😊
