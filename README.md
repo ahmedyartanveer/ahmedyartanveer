@@ -23,8 +23,7 @@ const ahmedYar = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     expertise: ["Scraping", "Automation", "Scripting", "Web development", "Software development"],
-    operatingSystems: ["Windows", "Linux (Ubuntu)", "Mac OSX"]
-    currentProject: "I am working on an Amazon clone",
+    operatingSystems: ["Windows", "Linux (Ubuntu)", "Mac OSX"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
