@@ -31,7 +31,7 @@ const ahmedYar = {
 
 •  [ScrapePilot.com](https://scrapepilot.com) adding more features to it
 
-• [Trading App](http://3.129.18.51:8000/admin) Scraping data of multiple accounts from a trading platform and showing it on our website by processing the data of each account and checking the credibility of the users who are operating those trading accounts. Basicall, showing the users their trading stats in a more extensive way.
+•  [Gumtree.com](https://gumtree.com) building a clone of it
    
 🚀 Some of my main projects:
 
@@ -42,6 +42,8 @@ const ahmedYar = {
 • [Office addin for patentbots](https://www.patentbots.com) - provides essential tools for patent prosecution. I contributed to it. It is built using vanilla javascript, django, GCP, aws.
 
 •  [Zillow Parsing](https://www.zillow.webdrvn.com) scraping data from zillow and storing it into DB and showing in the Admin panel. It is build using Python. django, etc
+
+• [Trading App](http://3.129.18.51:8000/admin) Scraping data of multiple accounts from a trading platform and showing it on our website by processing the data of each account and checking the credibility of the users who are operating those trading accounts. Basicall, showing the users their trading stats in a more extensive way.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-yar-tanveer-371486169/), [Email](ahmedyarabbassi@gmail.com), [Twitter](https://www.twitter.com/ahmedyar123).   
    I love connecting with different people so if you want to say hi, I’ll be happy to meet you! 😊
