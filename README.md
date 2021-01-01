@@ -29,10 +29,12 @@ const ahmedYar = {
 ```
 🔭 I’m currently working on 
 
-•  [ScrapePilot.com](https://scrapepilot.com) adding more features to it
+• [ScrapePilot.com](https://scrapepilot.com) adding more features to it
 
-•  [Gumtree.com](https://gumtree.com) building a clone of it.
-   
+• [Gumtree.com](https://gumtree.com) building a clone of it.
+
+• Building the ROI tracker system. Taking Car listings from [Gumtree](https://gumtree.com) and [FB Marketplace](https://www.facebook.com/marketplace) and comparing the prices with [Autotrader](https://www.autotrader.com/) prices to calculate the ROI.
+    
 🚀 Some of my main projects:
 
 • [ScrapePilot](https://scrapepilot.com) - It is basically an email scraping software that scrapes emails from any webpage/website/URL/Directory you provide to it. It has reviews/linkedIn scraping features as well
