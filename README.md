@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Ahmed Yar Tanveer, Full Stack Developer with 3 years of experience in web and software developement 
+This is Ahmed Yar Tanveer, Full Stack Developer with 3 years of experience in web and software developement
 
 ```
 const ahmedYar = {
@@ -31,7 +31,7 @@ const ahmedYar = {
 
 •  [ScrapePilot.com](https://scrapepilot.com) adding more features to it
 
-•  [Gumtree.com](https://gumtree.com) building a clone of it
+•  [Gumtree.com](https://gumtree.com) building a clone of it.
    
 🚀 Some of my main projects:
 
